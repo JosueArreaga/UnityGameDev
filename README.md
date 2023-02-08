@@ -1,2 +1,2 @@
 # example-game
-this is just a test...
+Here is a 2D sample game created through Unity and coded with C#
